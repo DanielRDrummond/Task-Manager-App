@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "sqlite-jdbc-3.45.3.0.jar",
+        "c:\\Users\\D-Laptop\\OneDrive - ECPI University\\CIS319 Advanced Object-Oriented Programming using Java\\sqlite-jdbc-3.42.0.0.jar"
+    ]
+}
